@@ -4,3 +4,10 @@ var car = {
   doesRun: true,
   nameBrands: ['audi', 'bmw']
 }
+
+var animal = {
+  color: 'brown',
+  height: 3,
+  canRun: true,
+  breed: ['greyhound', 'lab']
+}
