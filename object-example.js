@@ -11,3 +11,11 @@ var animal = {
   canRun: true,
   breed: ['greyhound', 'lab']
 }
+
+var customer = {
+  name: 'Tim',
+  height: 6,
+  isHappy: true,
+  shoeColors: ['blue', 'green', 'red']  
+
+}
